@@ -6,6 +6,7 @@
 //
 
 import UIKit
+import AVFoundation
 
 class ViewController: UIViewController {
 
@@ -52,11 +53,13 @@ class ViewController: UIViewController {
                 // 이 부분이 너무 이해가 안 된다. 넘버를 왜 만들었는진 알겠는데. 어차피 밑에 메인레이블에 넘버라는 값을 넣어줄 거면 왜 슬라이더. 밸류에 넘버를 넣어줘야하는 거지?
                 mainLabel.text = "\(number) 초"
                 
+                
             } else {
                 
                 number = 0
                 mainLabel.text = "초를 선택하세요"
                 timer?.invalidate()
+                AudioServicesPlayAlertSound(SystemSoundID(1322))
             }
             
             
@@ -73,6 +76,9 @@ class ViewController: UIViewController {
         
         mainLabel.text = "초를 선택하세요"
         slider.setValue(0.5, animated: true)
+        number = 0
+        timer?.invalidate()
+        
     
     }
     
