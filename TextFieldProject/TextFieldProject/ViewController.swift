@@ -24,6 +24,11 @@ class ViewController: UIViewController {
     func setup() {
         view.backgroundColor = UIColor.gray
         textField.keyboardType = UIKeyboardType.emailAddress
+        textField.placeholder = "이메일 입력"
+        textField.borderStyle = .roundedRect
+        // 노션에 정리
+        textField.clearButtonMode = .always
+        textField.returnKeyType = .go
     }
     
     
