@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  UpDownGame - Practice
+//  LoginProject
 //
-//  Created by user on 2023/07/07.
+//  Created by user on 2023/10/03.
 //
 
 import UIKit
