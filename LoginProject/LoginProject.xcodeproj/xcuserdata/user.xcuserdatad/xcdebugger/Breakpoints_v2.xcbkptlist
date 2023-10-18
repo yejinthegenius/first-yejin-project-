@@ -14,35 +14,20 @@
             filePath = "LoginProject/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "45"
-            endingLineNumber = "45"
-            landmarkName = "ViewController"
-            landmarkType = "3">
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "passwordTextFieldView"
+            landmarkType = "24">
             <Locations>
                <Location
-                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - fb99c73e275e7fe"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 () -&gt; __C.UIView in LoginProject.ViewController.passwordTextFieldView.getter : __C.UIView"
-                  moduleName = "LoginProject"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/user/Desktop/LoginProject/LoginProject/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "45"
-                  endingLineNumber = "45"
-                  offsetFromSymbolStart = "56">
-               </Location>
-               <Location
-                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 29225eded3b39eb3"
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 846cdc6a877dc168"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "LoginProject.ViewController.passwordTextFieldView.getter : __C.UIView"
                   moduleName = "LoginProject"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/user/Desktop/LoginProject/LoginProject/ViewController.swift"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "45"
@@ -50,14 +35,14 @@
                   offsetFromSymbolStart = "168">
                </Location>
                <Location
-                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - fb99c73e275e7dd"
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - a2f71ec7b6bbb804"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "closure #1 () -&gt; __C.UIView in LoginProject.ViewController.passwordTextFieldView.getter : __C.UIView"
                   moduleName = "LoginProject"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/user/Desktop/LoginProject/LoginProject/ViewController.swift"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "46"
@@ -65,14 +50,14 @@
                   offsetFromSymbolStart = "40">
                </Location>
                <Location
-                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - f48cc32f8f7bf43f"
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 59c2419bdbb5abe4"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "LoginProject.ViewController.passwordTextFieldView.setter : __C.UIView"
                   moduleName = "LoginProject"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/user/Desktop/LoginProject/LoginProject/ViewController.swift"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "45"
@@ -80,14 +65,14 @@
                   offsetFromSymbolStart = "108">
                </Location>
                <Location
-                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - bd3a1f954fceb42e"
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 10749d211b00ebf5"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "LoginProject.ViewController.passwordTextFieldView.modify : __C.UIView"
                   moduleName = "LoginProject"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/user/Desktop/LoginProject/LoginProject/ViewController.swift"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "45"
@@ -95,14 +80,14 @@
                   offsetFromSymbolStart = "0">
                </Location>
                <Location
-                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - a4b7b05020362e32"
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 9f932e474f871e9"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "LoginProject.ViewController.passwordTextFieldView.modify : __C.UIView with unmangled suffix &quot;.resume.0&quot;"
                   moduleName = "LoginProject"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/user/Desktop/LoginProject/LoginProject/ViewController.swift"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "45"
@@ -110,14 +95,14 @@
                   offsetFromSymbolStart = "20">
                </Location>
                <Location
-                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 9ec3eb620e2cea01"
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 338d69d65ae2b5da"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "LoginProject.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; LoginProject.ViewController"
                   moduleName = "LoginProject"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/user/Desktop/LoginProject/LoginProject/ViewController.swift"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "45"
@@ -125,19 +110,154 @@
                   offsetFromSymbolStart = "252">
                </Location>
                <Location
-                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 2d6a699e807c1dbb"
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 8024eb2ad4b24260"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "LoginProject.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;LoginProject.ViewController&gt;"
                   moduleName = "LoginProject"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/user/Desktop/LoginProject/LoginProject/ViewController.swift"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "45"
                   endingLineNumber = "45"
                   offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 846cdc6a877dc316"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginProject.ViewController.passwordTextFieldView.getter : __C.UIView"
+                  moduleName = "LoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - a2f71ec7b6bbbaba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIView in LoginProject.ViewController.passwordTextFieldView.getter : __C.UIView"
+                  moduleName = "LoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 59c2419bdbb5a99a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginProject.ViewController.passwordTextFieldView.setter : __C.UIView"
+                  moduleName = "LoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 10749d211b00e98b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginProject.ViewController.passwordTextFieldView.modify : __C.UIView"
+                  moduleName = "LoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 9f932e474f87397"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginProject.ViewController.passwordTextFieldView.modify : __C.UIView with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "LoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 338d69d65ae2b7a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginProject.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; LoginProject.ViewController"
+                  moduleName = "LoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 8024eb2ad4b2401e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginProject.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;LoginProject.ViewController&gt;"
+                  moduleName = "LoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 338d69d65ae2b7a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginProject.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; LoginProject.ViewController"
+                  moduleName = "LoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "260">
+               </Location>
+               <Location
+                  uuid = "46EF9D97-4A1A-48C1-A92F-9D8134EE1F01 - 8024eb2ad4b2401e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LoginProject.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;LoginProject.ViewController&gt;"
+                  moduleName = "LoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "236">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -152,39 +272,87 @@
             filePath = "LoginProject/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "128"
-            endingLineNumber = "128"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
             landmarkName = "setupUI()"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "0DE1D97C-BE83-4FBF-9D38-AD28E84FC329 - 1b7d18797a2e66e"
+                  uuid = "0DE1D97C-BE83-4FBF-9D38-AD28E84FC329 - acf95333c36c9207"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "LoginProject.ViewController.setupUI() -&gt; ()"
                   moduleName = "LoginProject"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/user/Desktop/LoginProject/LoginProject/ViewController.swift"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "128"
-                  endingLineNumber = "128"
-                  offsetFromSymbolStart = "832">
+                  startingLineNumber = "160"
+                  endingLineNumber = "160"
+                  offsetFromSymbolStart = "896">
                </Location>
                <Location
-                  uuid = "0DE1D97C-BE83-4FBF-9D38-AD28E84FC329 - 1b7d18797a2e7ea"
+                  uuid = "0DE1D97C-BE83-4FBF-9D38-AD28E84FC329 - acf95333c36c93a2"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
                   symbolName = "LoginProject.ViewController.setupUI() -&gt; ()"
                   moduleName = "LoginProject"
                   usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/user/Desktop/LoginProject/LoginProject/ViewController.swift"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "132"
-                  endingLineNumber = "132"
+                  startingLineNumber = "163"
+                  endingLineNumber = "163"
+                  offsetFromSymbolStart = "832">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "862794FC-71EF-4CF4-994A-D685870F4A00"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LoginProject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "passwordTextFieldView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "862794FC-71EF-4CF4-994A-D685870F4A00 - a2f71ec7b6bbb8ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIView in LoginProject.ViewController.passwordTextFieldView.getter : __C.UIView"
+                  moduleName = "LoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "332">
+               </Location>
+               <Location
+                  uuid = "862794FC-71EF-4CF4-994A-D685870F4A00 - a2f71ec7b6bbbb1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIView in LoginProject.ViewController.passwordTextFieldView.getter : __C.UIView"
+                  moduleName = "LoginProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user/Desktop/first-yejin-project-/LoginProject/LoginProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
                   offsetFromSymbolStart = "332">
                </Location>
             </Locations>
